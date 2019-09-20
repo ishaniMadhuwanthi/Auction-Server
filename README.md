@@ -3,12 +3,12 @@ Auction Server
 
 FILES INCLUDED:-
 
-App.java
-Server.java
-Stock.java
-Bid.java
-Gui.java
-stocks.csv
+-App.java
+-Server.java
+-Stock.java
+-Bid.java
+-Gui.java
+-stocks.csv
 
 
 RUNNING AND COMPILING PROCESS:-
