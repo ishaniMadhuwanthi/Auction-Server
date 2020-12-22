@@ -1,7 +1,7 @@
 # Auction Server
 
 
-## FILES INCLUDED
+## Files Included
 
 - App.java
 + Server.java
@@ -11,16 +11,13 @@
 + stocks.csv
 
 
-## RUNNING AND COMPILING PROCESS
+## Running and Compiling Process
 
 1. Put all the files(App.java,Server.java,Stock.java,Bid.java,Gui.java) including specially stocks.csv file, into one folder
 2. Compile all the java files
 3. Run App.java file
-4. Open nc Command line and enter 
-
-**nc <ip address> 2000**
- 
-5.Enter the details as the command line requests and carry the bidding process
+4. Open nc Command line and enter **nc** **<ip address>** **2000** 
+5. Enter the details as the command line requests and carry the bidding process
 
 
 Here,
